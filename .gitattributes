@@ -1,0 +1,4 @@
+algorithm/ssd/model_data/ssd_weights.pth filter=lfs diff=lfs merge=lfs -text
+algorithm/ssd/logs/best_epoch_weights.pth filter=lfs diff=lfs merge=lfs -text
+algorithm/rcnn/logs/best_epoch_weights.pth filter=lfs diff=lfs merge=lfs -text
+algorithm/rcnn/model_data/voc_weights_resnet.pth filter=lfs diff=lfs merge=lfs -text
