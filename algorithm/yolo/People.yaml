@@ -1,0 +1,7 @@
+train: E:/YOLO11Traindata/CocoAndVis/train/images  # train images (relative to 'path') 128 images
+val: E:/YOLO11Traindata/CocoAndVis/valid/images  # val images (relative to 'path') 128 images
+test: E:/YOLO11Traindata/CocoAndVis/test/images
+nc: 2
+
+# Classes
+names: ['pedestrian','people']
